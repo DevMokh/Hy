@@ -6,8 +6,8 @@
 
 // --- 1. الإعدادات وتأمين البيانات الحساسة ---
 // يفضل استخدام متغيرات البيئة، ولكن سنستخدم ثوابت مع تنبيه المستخدم
-define('BOT_TOKEN', ''); // اتركها فارغة هنا وضعها في ملف .env أو قم بتعبئتها
-define('ADMIN_ID', '');  // يجب وضع الآيدي الخاص بك هنا لتفعيل صلاحيات الأدمن
+define('BOT_TOKEN', '8606711654:AAHw0ClMs4o15tf0iDSXsiwFfOd41EgUPvQ'); // اتركها فارغة هنا وضعها في ملف .env أو قم بتعبئتها
+define('ADMIN_ID', '6330792075');  // يجب وضع الآيدي الخاص بك هنا لتفعيل صلاحيات الأدمن
 define('BOT_USERNAME', 'Number9informationbot');
 define('API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 
